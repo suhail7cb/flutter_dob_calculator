@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+Simple flutter application to calculated persons age.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img width="379" alt="1" src="https://user-images.githubusercontent.com/74094936/209472515-ce2f3a91-a68e-4bec-9440-e32b35837e31.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="368" alt="2" src="https://user-images.githubusercontent.com/74094936/209472520-358b64ad-1eaa-4118-91f4-8bf981d77910.png">
+
+
+<img width="374" alt="3" src="https://user-images.githubusercontent.com/74094936/209472525-6f60056f-4b0e-4e68-ae0a-82e61467b747.png">
